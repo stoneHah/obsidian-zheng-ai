@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "008acadaef344de6",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c9a877361896535",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d7e7caa2bfbb5196",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "工具库/4o图片色彩修正工具.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4o图片色彩修正工具"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "18959cd1be048ea5",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7f0fb189d4ea959",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa7b4c448ae239d7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "89e5effd7368b8b1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#AI/大模型",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "01efd0331d4285de",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "891ece21e524b618",
+    "type": "split",
+    "children": [
+      {
+        "id": "441ed5722c24bbbe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec5d6553318586a9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Clippings/github/obsidian-community web-clipper-templates Community collection of templates for the official Obsidian web clipper.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "obsidian-community web-clipper-templates Community collection of templates for the official Obsidian web clipper 的反向链接列表"
+            }
+          },
+          {
+            "id": "9696630bba792470",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "欢迎.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "欢迎 的出链列表"
+            }
+          },
+          {
+            "id": "55c4a208fb638485",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "41cc454d1f588ad9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "工具库/4o图片色彩修正工具.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "4o图片色彩修正工具 的大纲"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "d7e7caa2bfbb5196",
+  "lastOpenFiles": [
+    "X (formerly Twitter).md",
+    "工具库/4o图片色彩修正工具.md",
+    "AI/提示词/AI生成的掌上微缩奇幻森林景观.md",
+    "Clippings/(1) 歸藏(guizang.ai) on X 写个工具帮大家处理 4o 图片生成最大的问题！批量上传图片一键还原 4o 图片应有的真实色彩告别图片色彩的偏黄和偏暖，下面有地址和案例 httpst.cor8CZeHsnTK  X.md",
+    "工具库/(1) 歸藏(guizang.ai) on X 写个工具帮大家处理 4o 图片生成最大的问题！批量上传图片一键还原 4o 图片应有的真实色彩告别图片色彩的偏黄和偏暖，下面有地址和案例 httpst.cor8CZeHsnTK  X.md",
+    "标签体系.md",
+    "Clippings/(1) 歸藏(guizang.ai) on X 4o 生成的掌上微缩景观提示词：一个3D可爱小型可视化场景，描绘了一个生机勃勃的奇幻森林：里面有发光的小蘑菇、潺潺的迷你溪流、古怪的树屋，还有几只迷你的小精灵和小动物在探索。整个场景呈现在一位老者布满皱纹的掌心之上。 httpst.copGRwkZYubU  X.md",
+    "AI/提示词/(1) 歸藏(guizang.ai) on X 4o 生成的掌上微缩景观提示词：一个3D可爱小型可视化场景，描绘了一个生机勃勃的奇幻森林：里面有发光的小蘑菇、潺潺的迷你溪流、古怪的树屋，还有几只迷你的小精灵和小动物在探索。整个场景呈现在一位老者布满皱纹的掌心之上。 httpst.copGRwkZYubU  X.md",
+    "AI/提示词/AI生成名画人物的现代职业穿搭.md",
+    "AI/提示词/(1) -Zho- on X 又又又又有新想法出炉！《OOTD of ART》 by -Zho-名画人物走进现实生活再就业？还不赶紧来套时尚的职业风 OOTD ！4o 根据你所上传的照片和描述的职业自动生成姿势一致的 OOTD httpst.cohF6fHiGeHB  X.md",
+    "Clippings/(1) -Zho- on X 又又又又有新想法出炉！《OOTD of ART》 by -Zho-名画人物走进现实生活再就业？还不赶紧来套时尚的职业风 OOTD ！4o 根据你所上传的照片和描述的职业自动生成姿势一致的 OOTD httpst.cohF6fHiGeHB  X.md",
+    "Clippings/x/GPT-4o是懂LOGO设计的.md",
+    "AI/提示词/内容可视化提示词.md",
+    "Clippings/内容可视化提示词.md",
+    "工具库/Yourware使用指南.md",
+    "内容变现策略.md",
+    "1743940495467.jpg",
+    "000-主页.md",
+    "000-主页.md",
+    "工具库/MOC - 工具库.md",
+    "工具库",
+    "Clippings/一键搞定、100%成功、80老太都能操作，宝藏提示词将你的任何内容生成网页.md",
+    "AI/提示词/一键搞定、100%成功、80老太都能操作，宝藏提示词将你的任何内容生成网页.md",
+    "AI/提示词",
+    "AI/MOC - AI.md",
+    "AI/AI拆书/认识AI拆书.md",
+    "AI/AI拆书/MOC - AI拆书.md",
+    "AI/AI拆书",
+    "AI/AI日常/聚合API.md",
+    "AI/AI日常/MOC - AI日常.md",
+    "AI/AI日常",
+    "windsurf_deployment.yaml",
+    "netlify.toml",
+    "mkdocs.yml",
+    "requirements.txt",
+    "AI/MCP",
+    "Clippings/x",
+    "未命名.canvas",
+    "Pasted image 20250407094229.png",
+    "Pasted image 20250406220214.png",
+    "Pasted image 20250406201905.png",
+    "Pasted image 20250406201836.png",
+    "Pasted image 20250406201427.png",
+    "Pasted image 20250406201008.png",
+    "Pasted image 20250406200646.png"
+  ]
+}
