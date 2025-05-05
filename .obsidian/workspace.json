@@ -13,15 +13,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工具库/4o图片色彩修正工具.md",
+                "file": "Clippings/Thread by @dotey 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4o图片色彩修正工具"
+              "title": "Thread by @dotey 1"
+            }
+          },
+          {
+            "id": "d07aa9e802956020",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "工具库/速推-剪映小助手/剪映小助手节点框架.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "剪映小助手节点框架"
+            }
+          },
+          {
+            "id": "fa06aff2d22c4191",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/Thread by @op7418 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Thread by @op7418 1"
+            }
+          },
+          {
+            "id": "547de36c52231dc3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI/AI编程/小程序开发.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "小程序开发"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -53,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#AI/大模型",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -142,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工具库/4o图片色彩修正工具.md",
+                "file": "AI/AI编程/小程序开发.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "4o图片色彩修正工具 的大纲"
+              "title": "小程序开发 的大纲"
             }
           }
         ],
@@ -166,48 +209,49 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "d7e7caa2bfbb5196",
+  "active": "547de36c52231dc3",
   "lastOpenFiles": [
-    "X (formerly Twitter).md",
-    "工具库/4o图片色彩修正工具.md",
-    "AI/提示词/AI生成的掌上微缩奇幻森林景观.md",
-    "Clippings/(1) 歸藏(guizang.ai) on X 写个工具帮大家处理 4o 图片生成最大的问题！批量上传图片一键还原 4o 图片应有的真实色彩告别图片色彩的偏黄和偏暖，下面有地址和案例 httpst.cor8CZeHsnTK  X.md",
-    "工具库/(1) 歸藏(guizang.ai) on X 写个工具帮大家处理 4o 图片生成最大的问题！批量上传图片一键还原 4o 图片应有的真实色彩告别图片色彩的偏黄和偏暖，下面有地址和案例 httpst.cor8CZeHsnTK  X.md",
-    "标签体系.md",
-    "Clippings/(1) 歸藏(guizang.ai) on X 4o 生成的掌上微缩景观提示词：一个3D可爱小型可视化场景，描绘了一个生机勃勃的奇幻森林：里面有发光的小蘑菇、潺潺的迷你溪流、古怪的树屋，还有几只迷你的小精灵和小动物在探索。整个场景呈现在一位老者布满皱纹的掌心之上。 httpst.copGRwkZYubU  X.md",
-    "AI/提示词/(1) 歸藏(guizang.ai) on X 4o 生成的掌上微缩景观提示词：一个3D可爱小型可视化场景，描绘了一个生机勃勃的奇幻森林：里面有发光的小蘑菇、潺潺的迷你溪流、古怪的树屋，还有几只迷你的小精灵和小动物在探索。整个场景呈现在一位老者布满皱纹的掌心之上。 httpst.copGRwkZYubU  X.md",
-    "AI/提示词/AI生成名画人物的现代职业穿搭.md",
-    "AI/提示词/(1) -Zho- on X 又又又又有新想法出炉！《OOTD of ART》 by -Zho-名画人物走进现实生活再就业？还不赶紧来套时尚的职业风 OOTD ！4o 根据你所上传的照片和描述的职业自动生成姿势一致的 OOTD httpst.cohF6fHiGeHB  X.md",
-    "Clippings/(1) -Zho- on X 又又又又有新想法出炉！《OOTD of ART》 by -Zho-名画人物走进现实生活再就业？还不赶紧来套时尚的职业风 OOTD ！4o 根据你所上传的照片和描述的职业自动生成姿势一致的 OOTD httpst.cohF6fHiGeHB  X.md",
-    "Clippings/x/GPT-4o是懂LOGO设计的.md",
+    "Clippings/Thread by @shao__meng.md",
+    "Clippings/Thread by @dotey 4.md",
+    "Clippings/Thread by @idoubicc.md",
+    "Clippings/github/jamez-bondos awesome-gpt4o-images Awesome curated collection of GPT-4o images & prompts. Explore diverse AI-generated art styles (Ghibli, 3D, etc.) from OpenAI's latest model.md",
+    "Clippings/Thread by @yihui_indie.md",
+    "Clippings/Thread by @dotey.md",
+    "Clippings/Thread by @dotey 1.md",
+    "工具库/m3u8视频下载.md",
+    "Clippings/DeepWiki.md",
     "AI/提示词/内容可视化提示词.md",
-    "Clippings/内容可视化提示词.md",
-    "工具库/Yourware使用指南.md",
-    "内容变现策略.md",
+    "AI/AI编程/小程序开发.md",
+    "Clippings/Thread by @op7418 2.md",
+    "AI/AI编程",
+    "Clippings/Thread by @dotey 3.md",
+    "Clippings/Thread by @dotey 2.md",
+    "工具库/速推-剪映小助手/Drawing 2025-04-22 14.44.21.excalidraw.md",
+    "Clippings/Thread by @op7418 1.md",
+    "工具库/速推-剪映小助手/剪映小助手流程图.excalidraw.md",
+    "工具库/速推-剪映小助手/剪映小助手节点框架.excalidraw.md",
+    "工具库/速推-剪映小助手/剪映小助手节点框架.md",
+    "工具库/剪映小助手流程图/说明.md",
+    "工具库/剪映小助手笔记.md",
+    "工具库/速推-剪映小助手/Drawing 2025-04-22 13.39.20.excalidraw.md",
+    "工具库/4o图片色彩修正工具.md",
+    "工具库/剪映小助手流程图/剪映小助手节点图.excalidraw.md",
+    "工具库/剪映小助手流程图/剪映小助手节点图.md",
+    "工具库/剪映小助手流程图",
+    "工具库/速推-剪映小助手",
+    "工具库/Python剪映自动化视频剪辑工具.md",
+    "公众号/历史",
+    "AI/Agent2Agent",
+    "AI/RAG",
     "1743940495467.jpg",
-    "000-主页.md",
-    "000-主页.md",
-    "工具库/MOC - 工具库.md",
     "工具库",
-    "Clippings/一键搞定、100%成功、80老太都能操作，宝藏提示词将你的任何内容生成网页.md",
-    "AI/提示词/一键搞定、100%成功、80老太都能操作，宝藏提示词将你的任何内容生成网页.md",
     "AI/提示词",
-    "AI/MOC - AI.md",
-    "AI/AI拆书/认识AI拆书.md",
-    "AI/AI拆书/MOC - AI拆书.md",
     "AI/AI拆书",
-    "AI/AI日常/聚合API.md",
-    "AI/AI日常/MOC - AI日常.md",
     "AI/AI日常",
-    "windsurf_deployment.yaml",
-    "netlify.toml",
-    "mkdocs.yml",
-    "requirements.txt",
-    "AI/MCP",
-    "Clippings/x",
     "未命名.canvas",
     "Pasted image 20250407094229.png",
     "Pasted image 20250406220214.png",
